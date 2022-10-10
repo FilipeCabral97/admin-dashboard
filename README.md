@@ -1,4 +1,4 @@
-# The Odin Project: Admin Dashboard (current project) 
+# The Odin Project: Admin Dashboard
 
 [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
 
